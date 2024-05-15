@@ -1,10 +1,8 @@
 Charles J. (CJ) Dyas
 ===================================
 
-Frontend developer and product designer.
-
 * 🌍  Cincinnati, Ohio
-* 🖥️  Portfolio coming soon
+* 🖥️  https://www.cjdyas.design
 
 
 ### Skills
