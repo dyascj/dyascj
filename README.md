@@ -2,7 +2,7 @@ Charles J. (CJ) Dyas
 ===================================
 
 * 🌍  Cincinnati, Ohio
-* 🖥️  www.cjdyas.design
+* 🖥️  cjdyas.design
 
 
 ### Skills
