@@ -21,6 +21,6 @@
 - 🔍 **[loggrep-cli](https://github.com/dyascj/loggrep-cli)** — A smarter log parser for the terminal. Grep-like, but actually understands your logs. Written in Rust.
 - 🍅 **[Pomodorii](https://github.com/The-Lab-by-Ordinary-Company/pomodorii)** — The most delightful pomodoro timer on the internet. Retro console vibes, custom sounds, 4 languages.
 - ☕ **[Cozy RSS](https://github.com/dyascj/cozy-rss)** — A calm, self-hosted RSS reader. No ads. No algorithms. No cloud dependencies. Just you and the content you choose.
-- 
+
 ## Connect
 [![Portfolio](https://img.shields.io/badge/-cjdyas.design-000?style=flat-square&logo=safari&logoColor=white)](https://cjdyas.design)
