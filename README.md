@@ -16,6 +16,7 @@
 ![Railway](https://img.shields.io/badge/-Railway-000?style=flat-square&logo=railway&logoColor=white)
 
 ## What I'm Building
+- 💧 **[Mizu](https://github.com/dyascj/mizu)** — A Frutiger Aero design system for Svelte. Glossy, glassy, copy-paste components for SvelteKit, built on Svelte 5 and Tailwind v4.
 - 🏺 **[Utsuwa](https://github.com/The-Lab-by-Ordinary-Company/utsuwa)** — Open-source AI companion platform. Think Grok Companion, but yours. Built with Svelte, VRM avatars, and dating sim mechanics.
 - 🌌 **[Stargazer](https://github.com/The-Lab-by-Ordinary-Company/stargazer)** — An interactive 3D map of the solar system, powered by live data from NASA, JPL, ESA, and more.
 - 🔍 **[loggrep-cli](https://github.com/dyascj/loggrep-cli)** — A smarter log parser for the terminal. Grep-like, but actually understands your logs. Written in Rust.
