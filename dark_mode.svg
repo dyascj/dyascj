@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="22" fill="#c9d1d9" font-size="10px" class="ascii">
+<tspan x="15" y="22">                                                          </tspan>
+<tspan x="15" y="34">               ^:;:jw|MmMMmMwmi!:                         </tspan>
+<tspan x="15" y="46">            :kmkwwH@H@@@@@@@@H@@%ml,                      </tspan>
+<tspan x="15" y="58">         ,lMwMHHH@@@@@@@H%%%HHHHH@@HM,                    </tspan>
+<tspan x="15" y="70">       `MMmMH@@@HMwMwkljlllllkkkmMww%w!                   </tspan>
+<tspan x="15" y="82">      `lw%H@@%mmj|!;:,,^^^^`````^^`^`^|i                  </tspan>
+<tspan x="15" y="94">     jmMH@Hwwl|!;;;;::,,,^^``````&#x27;&#x27;&#x27;&#x27;..&#x27;,                 </tspan>
+<tspan x="15" y="106">    |HHH%wmi!!|!!!;;::,^^^````&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``               </tspan>
+<tspan x="15" y="118">   :%HMwwmk!|||!!;;:::,,,,^^````&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;^,              </tspan>
+<tspan x="15" y="130">   M%wmmmMj!|!!!!;;::;::,^`&#x27;...&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;..`.            </tspan>
+<tspan x="15" y="142">  w%wmmMMMi||||!!!!;;:,::,:,^^&#x27;.  .. ..  .`;!|:           </tspan>
+<tspan x="15" y="154">  wmmmMwMmj||||||!;;|lmwMMmMmmml;^. .....!lmmmmk;         </tspan>
+<tspan x="15" y="166"> ,MMmmwwllji!!!!!jwMkmw!;,,,!||ijll|````:Ml;:,`,|   kmkj  </tspan>
+<tspan x="15" y="178"> ,wwwwmmljj|!!imwMkkMm^^,,^^,:::!!|M;`:|lk`,:^,,;   lmm   </tspan>
+<tspan x="15" y="190">  mjmmklji!|kwwkj|i!mjilkijwmww|;!!`,&#x27;.;|:kj!MmM|:l  ;    </tspan>
+<tspan x="15" y="202">  M|jjjjjlwMkklljijlmilMj;!wklkj;!j!|&#x27;..,i|!!lkll,   ^    </tspan>
+<tspan x="15" y="214">  j||jjmmmkjiji|!!jlll:!::,^^,,^^!i!```&#x27;.`,^^`^^^,        </tspan>
+<tspan x="15" y="226">   |jlmkl|!!|!!!;!!;;;;:,``&#x27;`&#x27;&#x27;`,;;^^:,^`&#x27;&#x27;^:,`````       </tspan>
+<tspan x="15" y="238">  !iii!:ij;!|!!!;;:,,^````^^,;:::,`!|;,`&#x27;&#x27; ..^^,^`&#x27;^      </tspan>
+<tspan x="15" y="250"> jmi;j;:!l;;!|!!!::,,^^`^^`^^``&#x27;``jj,``,:`&#x27;.^` ```&#x27;`      </tspan>
+<tspan x="15" y="262"> im,,mm!,lj;;;!!!!;::,,,,^```&#x27;`&#x27;^,wl,,wwk:,!w!```&#x27;``      </tspan>
+<tspan x="15" y="274">  m^jmj::lml!;!!!;!;::::,,^^```&#x27;^,;ii|!|;!:ii^````&#x27;^      </tspan>
+<tspan x="15" y="286">  :jMjj;,;mwmi!!!!;;;;;:,,,^^^^^^^^`,|klww|mmk;^```^      </tspan>
+<tspan x="15" y="298">   i!;|i!:|kwwl!!|!!!;;;;,,,^,,,^:!jmkmi;il!:jlki^`^      </tspan>
+<tspan x="15" y="310">   l;,;!|||jmmMk|||!|!!!;::,:;!;lmkmj|iiij|ij|iiMw^       </tspan>
+<tspan x="15" y="322">    :!!!;|liwmmmkj!||!!!!;;;:!ikmmwmmli|;;!;::!lim!       </tspan>
+<tspan x="15" y="334">         ;!!wmkmmwjj|j;!i|;,;!jk|jji|!|!!|!|;;^,^j|       </tspan>
+<tspan x="15" y="346">          |!imklkkklilljiil||!i::::::;;,;!!|:,,,^!j       </tspan>
+<tspan x="15" y="358">          ::;|Mmlmkklmklkmk|jlwj:;;;:,,,,,,^,^^^^mk       </tspan>
+<tspan x="15" y="370">   jkMwMH@M`;;|mMMwwkmkmmkmklmmkwwj|,,^^^,^,,,,,,M%@@Mmwj </tspan>
+<tspan x="15" y="382">M@@@@@@@@H@!^!;|MMwMMwwMmwmmwmMmmmwwj|;,,^,:,:!jlm@@@@@@@@</tspan>
+<tspan x="15" y="394">@@H@@@H%%%@m`;;!!iwmwwmmMmmmmmmwmmmwlMklj;|;|!jwmwH@@@@@@%</tspan>
+<tspan x="15" y="406">@@@@HMM%HH@H,:;!!|ilwMmwwwMMwwMMwwwmwmMmwkwwMMmwwwwMH@@@@M</tspan>
+<tspan x="15" y="418">@@H%MMH@@@@@!,!!!!ijlllmwmMmwww%H%HH%wwMwwmw|:H@HMMMM%HHMw</tspan>
+<tspan x="15" y="430">%HHHH%%%H@@@l!|!!!!||jlljjmmkmmkwMmmmmmmji:,,^M@%MM%HH%www</tspan>
+<tspan x="15" y="442">MM%HHHH%%HHwwji!!!!!!|||jljjjjjijljjji|!;:,,;!m@%M%HHMwwww</tspan>
+<tspan x="15" y="454">%%M%%HHHH%%Mmmj|!!!!!!!|iiiiji||i!;!!;;;:,,:!kMH%%%Mwwwwww</tspan>
+<tspan x="15" y="466">%%%%%M%%HHHHMmmj|!!;;!!!|i|||||!!;;;:::,,,:;kwHH%MMwwMwwww</tspan>
+<tspan x="15" y="478">%%HHHH%%%M%%H%mmji|!;;;;;!!!!!!!!;::;:,,,:!lwHMMwwwMMMMwww</tspan>
+<tspan x="15" y="490">%%%HH%%H%%MMMM%Mwlj|!!;;:;!!;;::,,::::::;imwMwwMMwwMMMwMMw</tspan>
+<tspan x="15" y="502">HHHH%%%%%%%%%%MM%wwkji|;;;!!;;:,,:;;;;|ikmMMMMMMMMMMwMMMM%</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">cj@dyascj</tspan> -─────────────────────────────────────────────────
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">macOS, Linux (homelab)</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">26 years, 5 months, 8 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Rove iQ</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Director of Design and Service</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Terminal</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Ghostty, coffee theme</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">cjdyas.design</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Rust, TypeScript, GDScript</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Design</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Figma, QGIS, Blender</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Making</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">maps, games, design tools</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Breaking</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">the homelab</tspan>
+<tspan x="390" y="310">- Building</tspan> -────────────────────────────────────────────────
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">utsuwa</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">open-source ai companion</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">katachi</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">figma-style design tool in rust</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">slat</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">tiling window manager for macos</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">mizu</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">design system for ai products</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">stargazer</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">true-scale solar system explorer</tspan>
+</text>
+</svg>

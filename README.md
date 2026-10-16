@@ -1,11 +1,6 @@
-## hey, i'm cj
-
-design engineer, game dev, IT nerd.
-
-i make maps, games, and the occasional thing that works on the first try.
-
-<img src="./dancing-gopher.gif" alt="gopher dancing" width="200" />
-
-### the vibe
-
-write some code, ship it, drink coffee, break the homelab, fix the homelab, repeat.
+<a href="https://github.com/dyascj/dyascj">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dyascj/dyascj/main/dark_mode.svg">
+    <img alt="CJ Dyas's GitHub Profile README" src="https://raw.githubusercontent.com/dyascj/dyascj/main/light_mode.svg">
+  </picture>
+</a>
