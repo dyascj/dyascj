@@ -8,15 +8,15 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
+.key {fill: #d70015;}
+.value {fill: #000000;}
+.addColor {fill: #000000;}
+.delColor {fill: #d70015;}
+.cc {fill: #c8c8c8;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="22" fill="#24292f" font-size="10px" class="ascii">
+<rect width="985px" height="530px" fill="#ffffff" rx="15"/>
+<text x="15" y="22" fill="#000000" font-size="10px" class="ascii">
 <tspan x="15" y="22">                                                          </tspan>
 <tspan x="15" y="34">               ^:;:jw|MmMMmMwmi!:                         </tspan>
 <tspan x="15" y="46">            :kmkwwH@H@@@@@@@@H@@%ml,                      </tspan>
@@ -59,7 +59,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490">%%%HH%%H%%MMMM%Mwlj|!!;;:;!!;;::,,::::::;imwMwwMMwwMMMwMMw</tspan>
 <tspan x="15" y="502">HHHH%%%%%%%%%%MM%wwkji|;;;!!;;:,,:;;;;|ikmMMMMMMMMMMwMMMM%</tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
+<text x="390" y="30" fill="#000000">
 <tspan x="390" y="30">cj@dyascj</tspan> -─────────────────────────────────────────────────
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">macOS, Linux (homelab)</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">26 years, 5 months, 8 days</tspan>
